@@ -1,0 +1,2 @@
+# Readme
+*webecho* is a very basic web server implemented with the [bottle](https://bottlepy.org/) framework. It can be used to echo request data back to the client or output it to stdout. This could be used for basic testing. It could be expanded on to provided a mock API interface for testing integrations against APIs. The original incarnation of this solution is based on code in a [Stackoverflow question](https://codereview.stackexchange.com/questions/213329/restful-api-echo-server-using-python-bottles).
